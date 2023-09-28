@@ -409,9 +409,6 @@ nav {
 }
 
 
-
-/* how section */
-
 /* how section */
 .how {
   background-color: var(--accent);
@@ -765,12 +762,10 @@ nav {
   }
 
   .toolbar {
-    position: fixed;
-    top: 3em;
-    display: flex;
     flex-direction: column;
     align-self: flex-end;
     bottom: 1em;
+    right: 2em;
   }
 
   .rollout {
@@ -784,6 +779,15 @@ nav {
 
   .step {width: 100%;}
 
+  /* Adjust the toolbar positioning and width*/
+
+
+  .toolbar {
+    position: fixed;
+    right: 2em;
+    width: 50%; /* Make it full-width */
+  }
+
   .how {
     gap: 1em;
   }
@@ -794,8 +798,6 @@ nav {
 
 
 }
-
-
 
 
 /* mobile expand button */
