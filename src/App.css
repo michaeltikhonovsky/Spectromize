@@ -496,6 +496,7 @@ nav {
   align-items: flex-start;
 }
 
+
 .list {
   display: flex;
   flex-direction: row;
@@ -622,6 +623,7 @@ nav {
   }
 
 
+
   h1 {
     font-size: 32px;
   }
@@ -667,6 +669,7 @@ nav {
   .benefits-tile {
     width: 100%;
   }
+
 
   .how {
     flex-direction: column;
