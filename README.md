@@ -1,9 +1,11 @@
 <h1 align="center">
 Color Palette Picker
 </h1>
-<p align="center>
-<img src="https://github.com/michaeltikhonovsky/ChromaPicker/blob/master/src/assets/ChromaPicker_2.png" width="600>
+
+<p align="center">
+  <img src="https://github.com/michaeltikhonovsky/ChromaPicker/blob/master/src/assets/ChromaPicker_2.png" width="600">
 </p>
+
 <p align="center">
   Generate and download your custom color palette for your use.
 </p>
@@ -15,7 +17,7 @@ Color Palette Picker
 - Finalize your color scheme and download your palette!
 
 <p align="center">
-<img src="https://github.com/michaeltikhonovsky/ChromaPicker/blob/master/src/assets/ChromaPicker_1.png" width="600">
+  <img src="https://github.com/michaeltikhonovsky/ChromaPicker/blob/master/src/assets/ChromaPicker_1.png" width="600">
 </p>
 
 ## How to use
