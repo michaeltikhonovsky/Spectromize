@@ -15,9 +15,10 @@ Color Palette Picker
 
 - Visit [ChromaPicker](https://chroma-picker.vercel.app/).
 - Begin finding your palette for your needs!
+- Download your parelette.
 
 ## Support me
 
-- If you find this project cool, please give it a star ⭐
+- If you find this project cool, please give it a star on github⭐
 - Share it with your friends
   
