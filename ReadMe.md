@@ -13,7 +13,7 @@ Color Palette Picker
 
 ## How to use it
 
-- Visit https://chroma-picker.vercel.app/
+- Visit [ChromaPicker](https://chroma-picker.vercel.app/).
 - Begin finding your palette for your needs!
 
 ## Support me
