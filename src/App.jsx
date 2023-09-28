@@ -904,4 +904,11 @@ Enjoy!`;
         expandButton.classList.toggle("rotate");
     });
 
+    const colorButton = document.getElementById("toolbar");
+
+    colorButton.addEventListener('click', () => {
+        colorButton.classList.toggle('open');
+    })
+
+
 }

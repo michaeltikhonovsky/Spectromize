@@ -762,10 +762,9 @@ nav {
   }
 
   .toolbar {
-    flex-direction: column;
-    align-self: flex-end;
-    bottom: 1em;
+    position: fixed;
     right: 2em;
+    width: 50%; /* Make it full-width */
   }
 
   .rollout {
