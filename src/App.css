@@ -241,7 +241,7 @@ nav {
   transform: rotate(0);
 }
 
-.logo:hover >
+.logo:hover >,
 .logoface {
   transform: scale(1.2);
   transition: all ease-in-out 0.4s;
