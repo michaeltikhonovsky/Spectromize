@@ -1,7 +1,7 @@
 <h1 align="center">
 Color Palette Picker
 </h1>
-<p align="center">
+<p align="center>
 <img src="https://github.com/michaeltikhonovsky/ChromaPicker/blob/master/src/assets/ChromaPicker_2.png" width="600>
 </p>
 <p align="center">
