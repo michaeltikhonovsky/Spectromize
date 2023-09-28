@@ -765,6 +765,9 @@ nav {
   }
 
   .toolbar {
+    position: fixed;
+    top: 3em;
+    display: flex;
     flex-direction: column;
     align-self: flex-end;
     bottom: 1em;
