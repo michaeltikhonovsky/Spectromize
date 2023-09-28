@@ -2,7 +2,7 @@
 Color Palette Picker
 </h1>
 <p align="center>
-  <img src="https://github.com/michaeltikhonovsky/ChromaPicker/blob/master/src/assets/ChromaPicker_2.png" width="600>
+<img src="https://github.com/michaeltikhonovsky/ChromaPicker/blob/master/src/assets/ChromaPicker_2.png" width="600>
 </p>
 <p align="center">
   Generate and download your custom color palette for your use.
