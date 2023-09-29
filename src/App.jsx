@@ -903,7 +903,4 @@ Enjoy!`;
 
         expandButton.classList.toggle("rotate");
     });
-
-
-
 }

@@ -481,14 +481,6 @@ nav {
   gap: 2em;
 }
 
-.promo {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  gap: 1em;
-}
-
 .price-list {
   display: flex;
   flex-direction: column;
@@ -778,6 +770,15 @@ nav {
 }
 
 @media screen and (max-width: 800px) {
+
+  .menu {
+    display: flex;
+    padding: 2em;
+    width: 75%;
+    justify-content: center;
+    align-items: center;
+    gap: 5em;
+  }
 
   .step {width: 100%;}
 
