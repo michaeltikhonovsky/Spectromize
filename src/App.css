@@ -774,7 +774,7 @@ nav {
   .menu {
     display: flex;
     padding: 2em;
-    width: 80%;
+    width: 100%;
     justify-content: center;
     align-items: center;
     gap: 5em;
