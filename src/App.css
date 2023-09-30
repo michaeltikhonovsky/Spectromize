@@ -763,7 +763,7 @@ nav {
   }
 
   .rollout {
-    display: flex !important;
+    display: none !important;
   }
 
 
@@ -783,7 +783,7 @@ nav {
   .step {width: 100%;}
 
   /* Adjust the toolbar positioning and width*/
-
+  
   .toolbar {
     position: fixed;
     right: 2em;
