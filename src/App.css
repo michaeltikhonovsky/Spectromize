@@ -763,7 +763,7 @@ nav {
   }
 
   .rollout {
-    display: none !important;
+    display: flex !important;
   }
 
 
@@ -784,7 +784,6 @@ nav {
 
   /* Adjust the toolbar positioning and width*/
 
-
   .toolbar {
     position: fixed;
     right: 2em;
@@ -802,7 +801,6 @@ nav {
 
 }
 
-
 /* mobile expand button */
 
 .rolloutbutton {
@@ -813,22 +811,4 @@ nav {
 
 .rollout {
   display: flex;
-}
-
-
-
-/* refer */
-
-.refer {
-  position: fixed;
-  top: 0;
-  left: 50%;
-  transform: translate(-50%, 0%);
-  font-size: 13px;
-  padding: 10px;
-  background-color: rgba(225, 225, 225);
-  color: rgb(0,0,0);
-  border-radius: 6px;
-  z-index: 9999;
-  text-align: center;
 }

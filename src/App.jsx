@@ -903,4 +903,10 @@ Enjoy!`;
 
         expandButton.classList.toggle("rotate");
     });
+
+
+    primaryColor.addEventListener('click', ()=> {
+        primaryColor.classList.toggle('open');
+    })
+
 }
