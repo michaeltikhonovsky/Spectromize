@@ -905,8 +905,8 @@ Enjoy!`;
     });
 
 
-    primaryColor.addEventListener('click', ()=> {
-        primaryColor.classList.toggle('open');
-    })
+    // primaryColor.addEventListener('click', ()=> {
+    //     primaryColor.classList.toggle('open');
+    // })
 
 }
