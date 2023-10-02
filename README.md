@@ -1,5 +1,5 @@
 <h1 align="center">
-Color Palette Picker
+Color Palette Generator
 </h1>
 
 <p align="center">
