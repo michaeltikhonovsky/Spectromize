@@ -457,7 +457,7 @@ export default function App() {
     Primary Button: ${primbuttnColor.value} (RGB: ${hexToRgb(primbuttnColor.value)})
     Secondary Button: ${secbuttnColor.value} (RGB: ${hexToRgb(secbuttnColor.value)})
     Accent: ${accentColor.value} (RGB: ${hexToRgb(accentColor.value)})\n
-Enjoy!`;
+    Enjoy!`;
         const colorBlob = new Blob([colorText], {type: 'text/plain'});
         const colorFile = new File([colorBlob], 'colors.txt', {type: 'text/plain'});
 
@@ -903,10 +903,4 @@ Enjoy!`;
 
         expandButton.classList.toggle("rotate");
     });
-
-
-    primaryColor.addEventListener('click', ()=> {
-        primaryColor.classList.toggle('open');
-    })
-
 }

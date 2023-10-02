@@ -53,7 +53,7 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-    padding-bottom: 8em;
+    gap: 8em;
     margin: 3em 0;
 }
 
@@ -593,7 +593,24 @@ nav {
 .menu-item:hover {
     transform: translate(0, -3px);
 }
+.rolloutbutton {
+    display: flex !important;
+    padding: 0.5em 5em;
+}
 
+.rolloutbutton.rotate > svg {
+    transform: rotate(180deg);
+}
+
+.toolbar {
+    position: fixed;
+    right: 2em;
+    width: 20%; /* Make it full-width */
+}
+
+.rollout {
+    display: none !important;
+}
 #close-btn {
     background-color: transparent;
     border: none;
