@@ -613,7 +613,14 @@ nav {
     cursor: pointer;
     color: var(--static2);
 }
-
+@keyframes rollout {
+    from {
+        transform: translateY(-100%);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
 /* responsiveness */
 
 
