@@ -22,7 +22,7 @@ Color Palette Picker
 
 ## How to use
 
-- Visit [ChromaPicker](https://d17fhw6qzg96w5.cloudfront.net).
+- Visit [Spectruma](https://d17fhw6qzg96w5.cloudfront.net).
 - Begin creating your palette for your own use.
 - Download your palette.
 
