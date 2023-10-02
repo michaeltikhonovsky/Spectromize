@@ -29,4 +29,4 @@ Color Palette Picker
 ## Support me
 
 - Star this GitHub repository 🌟
-- Share ChromaPicker with your friends!
+- Share Spectruma with your friends!
