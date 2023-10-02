@@ -246,7 +246,7 @@ nav {
     transform: rotate(0);
 }
 
-.logo:hover >,
+.logo:hover, >
 .logoface {
     transform: scale(1.2);
     transition: all ease-in-out 0.4s;
@@ -365,8 +365,7 @@ nav {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 20px
-
+    gap: 20px;
 }
 
 .benefits-tile {
@@ -392,10 +391,6 @@ nav {
     left: 0;
 }
 
-.benefits-tile-img {
-    height: 50%;
-}
-
 .highlight {
     z-index: 5;
 }
@@ -404,7 +399,6 @@ nav {
     content: "";
     background-color: var(--accent);
     height: 30px;
-    /*width: 200px;*/
     width: 100%;
     display: block;
     transform: translate(0, 32px);
@@ -458,7 +452,7 @@ nav {
 .price {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     width: 100%;
     gap: 2em;
@@ -633,7 +627,6 @@ nav {
 
     .toolbar {
         bottom: 2em;
-
     }
 
 
@@ -649,6 +642,7 @@ nav {
     .subtitle {
         font-size: 20px;
     }
+
 
     h3 {
         font-size: 20px;
@@ -678,6 +672,7 @@ nav {
     .benefits-tiles {
         flex-direction: column;
         gap: 2em;
+
     }
 
     .benefits-tile {
