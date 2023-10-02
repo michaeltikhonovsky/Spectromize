@@ -22,7 +22,7 @@ Color Palette Picker
 
 ## How to use
 
-- Visit [Spectromize](spectromize.com).
+- Visit [Spectromize](www.spectromize.com).
 - Begin creating your palette for your own use.
 - Download your palette.
 
