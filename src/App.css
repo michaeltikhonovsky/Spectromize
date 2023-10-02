@@ -1,3 +1,6 @@
+@import "../src/dummy.css";
+
+
 :root {
     --static: rgba(225, 225, 225, 0.5);
     --static4: rgba(225, 225, 225, 0.2);
