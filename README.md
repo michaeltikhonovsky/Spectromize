@@ -22,11 +22,11 @@ Color Palette Picker
 
 ## How to use
 
-- Visit [Spectruma](https://d17fhw6qzg96w5.cloudfront.net).
+- Visit [Spectromize](spectromize.com).
 - Begin creating your palette for your own use.
 - Download your palette.
 
 ## Support me
 
 - Star this GitHub repository 🌟
-- Share Spectruma with your friends!
+- Share Spectromize with your friends!
