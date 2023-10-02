@@ -1,3 +1,4 @@
+
 :root {
     --static: rgba(225, 225, 225, 0.5);
     --static4: rgba(225, 225, 225, 0.2);
@@ -246,7 +247,7 @@ nav {
     transform: rotate(0);
 }
 
-.logo:hover, >
+.logo:hover>,
 .logoface {
     transform: scale(1.2);
     transition: all ease-in-out 0.4s;
@@ -612,7 +613,14 @@ nav {
     cursor: pointer;
     color: var(--static2);
 }
-
+@keyframes rollout {
+    from {
+        transform: translateY(-100%);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
 /* responsiveness */
 
 
